@@ -156,21 +156,6 @@ sqlite-utils
 
 ---
 
-# 📸 Screenshots
-
-Add your application screenshots here.
-
-Example:
-
-* Home Screen
-* Attractions Screen
-* Map Screen
-* Hotel Screen
-* Navigation Screen
-* Live Tracking Screen
-
----
-
 # 🚀 Learning Outcomes
 
 Through this project, the following concepts were explored:
